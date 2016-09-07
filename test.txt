@@ -1,0 +1,2 @@
+This is a test of my new Git skills.
+I'm committing this to my new repository shortly.
