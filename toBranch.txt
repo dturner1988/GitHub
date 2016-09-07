@@ -1,1 +1,3 @@
 I am going to commit this to the new branch, but not the master.
+
+And now it's on the master, but I've added this line for the master and not yet the branch.
